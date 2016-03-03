@@ -1,0 +1,26 @@
+{
+  "name": "peter",
+  "version": "1.0.0",
+  "description": "Node.js =======",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "js2xmlparser": "^1.0.0",
+    "needle": "^1.0.0",
+    "superagent": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dautay160613/Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dautay160613/Node/issues"
+  },
+  "homepage": "https://github.com/dautay160613/Node#readme"
+}
